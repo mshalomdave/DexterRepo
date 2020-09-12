@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--   Dashboard Toolbar Top and Bottom Margin -->
+    <dimen name="toolbar_top_margin">-25dp</dimen>
+    <dimen name="toolbar_bottom_margin">10dp</dimen>
+    <!--   Other Toolbar Top and Bottom Margin -->
+    <dimen name="toolbar_other_top_margin">-260dp</dimen>
+    <!--    Dashboard Cards Top And Bottom Margins Except Bottom Cards-->
+    <dimen name="card_top_margin">10dp</dimen>
+    <dimen name="card_bottom_margin">10dp</dimen>
+
+
+
+</resources>

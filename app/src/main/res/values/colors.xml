@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0eb566</color>
+    <color name="colorPrimaryDark">#00944f</color>
+
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="primary">#0eb566</color>
+    <color name="primary_dark">#00944f</color>
+    <color name="primary_darker">#008243</color>
+    <color name="accent">#FFFFFF</color>
+
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitefade_bar">#DFFFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="myGray">#99dab3</color>
+
+<!--    New Colors-->
+    <color name="mycolorPrimary">#FFC107</color>
+    <color name="mycolorPrimaryDark">#FFA000</color>
+    <color name="mybackgroundcolor">#fcfcfc</color>
+    <color name="mylightgray">#ededed</color>
+    <color name="mydeeppurple">#7c4dff</color>
+    <color name="myyello">#ffb300</color>
+    <color name="mygreen">#00bfa5</color>
+    <color name="mycolorAccent">#FF4081</color>
+    <color name="mydarkblue">#23283a</color>
+    <color name="mytestcolorblue">#152b38</color>
+    <color name="mypink">#fe104d</color>
+
+    <color name="myblack_overlay">#66000000</color>
+
+    <color name="gradient_start">#5770f3</color>
+    <color name="gradient_end">#8e5aeb</color>
+    <color name="profile_desc">#D1D1FF</color>
+    <color name="bg_meta_container">#000000</color>
+    <color name="profile_default_tint">#e0e0e0</color>
+    <color name="headings">#6CCF37</color>
+    <color name="grey">#4E4D4D</color>
+    <color name="greyback">#f8f8f9</color>
+    <color name="whitefade">#DCFFFFFF</color>
+
+</resources>

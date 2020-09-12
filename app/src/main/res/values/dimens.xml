@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">280dp</dimen>
+    <!--   Dashboard Toolbar Top and Bottom Margin -->
+    <dimen name="toolbar_top_margin">0dp</dimen>
+    <dimen name="toolbar_bottom_margin">5dp</dimen>
+    <!--   Other Toolbar Top and Bottom Margin -->
+    <dimen name="toolbar_other_top_margin">-230dp</dimen>
+    <dimen name="toolbar_schedules_top_margin">0dp</dimen>
+<!--    Dashboard Cards Top And Bottom Margins Except-->
+    <dimen name="card_top_margin">5dp</dimen>
+    <dimen name="card_bottom_margin">5dp</dimen>
+<!--New-->
+    <dimen name="toolbar_profile_width">90dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="profile_title">23dp</dimen>
+    <dimen name="profile_desc">13dp</dimen>
+    <dimen name="meta_count">20dp</dimen>
+    <dimen name="meta_label">12dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="ic_camera_width">36dp</dimen>
+    <dimen name="ic_plus_width">28dp</dimen>
+    <dimen name="toolbar_t_margin">0dp</dimen>
+
+
+</resources>
