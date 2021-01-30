@@ -25,7 +25,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-
+//Comments will not be supplied for this file as they are not limited to the scope of the issue to be solved doesn't involve this file.
 public class CropActivity extends AppCompatActivity {
     public static final String INTENT_ASPECT_RATIO_X = "aspect_ratio_x";
     public static final String INTENT_ASPECT_RATIO_Y = "aspect_ratio_Y";
@@ -44,7 +44,7 @@ public class CropActivity extends AppCompatActivity {
     protected void onCreate(Bundle  savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crop);
-        //Comments are unavailable for this file
+        
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         mCropImageView = (CropImageView)  findViewById(R.id.CropImageView);
